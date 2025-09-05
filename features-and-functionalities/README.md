@@ -78,7 +78,7 @@ Implement search functionalities do users can find properties by attributes (Loc
 
 1. Email notifications - eg SendGrid or Mailgun
 
-### Error Handling and Logging.
+### Error Handling and Logging
 
 1. Global error handling for APIs
 
