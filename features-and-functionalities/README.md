@@ -2,6 +2,8 @@
 
 Backend development involves creating of server-side logic, database management and API integration that powers a web application.
 
+[Feature Foundations](https://drive.google.com/file/d/1kpyz7KFWNWrclAtOr9W5mDqk3JcmmpZ2/view?usp=drive_link)
+
 Project requirements
 The Airbnb-Clone project is categorized into 3 main functionalities.
 
